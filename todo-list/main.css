@@ -1,0 +1,14 @@
+.layout {
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+    border: 2px solid #000;
+    border-radius: 100px;
+    text-align: center;
+}
+
+.title {
+    color: #fff;
+    font-size: 200%;
+    font-weight: 900px;
+}
