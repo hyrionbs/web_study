@@ -1,3 +1,4 @@
+
 body {
     background-color: hotpink;
 }
@@ -20,4 +21,30 @@ body {
     background-color: #fff;
     border: 5px solid deeppink;
     border-radius: 20px;
+}
+
+#list-group {
+    padding-top: 20px;
+}
+
+.list-group-item {
+    border: none !important;
+    border-bottom: 1px solid #eee !important;
+}
+
+#input-group {
+    margin-top: 10px;
+}
+
+#input-area {
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+#button-area{
+    border: none;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: purple;
+    color: #fff;
 }
