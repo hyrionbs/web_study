@@ -5,7 +5,13 @@
     font-style: normal;
 }
 
-
+#andigh_text{
+    color: #ffffff;
+    font-family: 'GmarketSansMedium';
+    font-size: 18px;
+    margin-left: 20px;
+    margin-right: 30px;
+}
 
 
 
@@ -15,9 +21,6 @@
     height: 42px;
     align-items: center;
     justify-content: center;
-    color: #ffffff;
-    font-family: 'GmarketSansMedium';
-    font-size: 18px;
     
 }
 
