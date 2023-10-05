@@ -18,4 +18,15 @@
     color: #ffffff;
     font-family: 'GmarketSansMedium';
     font-size: 18px;
+    
+}
+
+#button_color{
+    font-family: 'GmarketSansMedium';
+    background-color: #00000033;
+    color: #ffffff;
+    font-size: 13px;
+    
+    border-radius: 20px;
+
 }
